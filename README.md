@@ -12,6 +12,6 @@ import Loader from '../loader';
 
 ## Defaults
 - `className` = `loader`
-- `loader` = ![spinner-2x](https://user-images.githubusercontent.com/5230729/37880454-d6834ae2-3045-11e8-8f89-7f23a5bae268.gif)
+- `loader` = ![spinner](https://user-images.githubusercontent.com/5230729/37880462-10b8e35c-3046-11e8-8f5e-7cbf011ea819.gif)
 - `width` = `25`
 - `height` = `25`
